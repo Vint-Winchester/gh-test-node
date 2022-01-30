@@ -1,0 +1,23 @@
+{
+  "name": "gh-test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vint-Winchester/gh-test-node.git"
+  },
+  "author": "VINT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vint-Winchester/gh-test-node/issues"
+  },
+  "homepage": "https://github.com/Vint-Winchester/gh-test-node#readme",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
